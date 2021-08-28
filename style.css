@@ -1,0 +1,17 @@
+#header
+{
+    width: 100%;
+color: black;
+}
+
+body
+{
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+canvas
+{
+    border-width: 7px;
+    border-color: whitesmoke;
+    border-style: solid;
+}
